@@ -1,6 +1,6 @@
 # 知识点
 <details>
-<summary>Lambda表达式</summary>
+<summary><b>Lambda 表达式</b></summary>
 
 **应用**：[T189](./src/LeetCode/Array/T189.cpp)
 1. **基本语法结构**
