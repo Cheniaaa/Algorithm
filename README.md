@@ -1,6 +1,7 @@
 # 知识点
+<details>
+<summary>Lambda表达式</summary>
 
-### Lambda表达式
 **应用**：[T189](./src/LeetCode/Array/T189.cpp)
 1. **基本语法结构**
    ```cpp
@@ -125,3 +126,4 @@ func(42);
 process([](int x) {
 std::cout << x; });
 ```
+</details>
