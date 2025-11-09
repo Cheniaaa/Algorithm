@@ -3,8 +3,6 @@ project(LeetCode)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(LeetCode main.cpp)
-
 add_executable(T42 src/LeetCode_100/T42.cpp)
 add_executable(T1 src/LeetCode_100/T1.cpp)
 add_executable(T11 src/LeetCode_100/T11.cpp)
@@ -45,6 +43,10 @@ add_executable(T53_kruskal src/Kama/T53_kruskal.cpp)
 add_executable(T47 src/Kama/T47.cpp)
 add_executable(T47_Heap src/Kama/T47_Heap.cpp)
 add_executable(T452 src/LeetCode/Greedy/T452.cpp)
-add_executable(T33 src/LeetCode/Array/T33.cpp
-        src/LeetCode/Array/T189.cpp)
+add_executable(T33 src/LeetCode/Array/T33.cpp)
 add_executable(T189 src/LeetCode/Array/T189.cpp)
+add_executable(T59 src/LeetCode/Array/T59.cpp)
+add_executable(T977 src/LeetCode/Array/T977.cpp)
+add_executable(T274 src/LeetCode/Array/T274.cpp)
+add_executable(T238 src/LeetCode/Array/T238.cpp)
+add_executable(T135 src/LeetCode/Array/T135.cpp)
